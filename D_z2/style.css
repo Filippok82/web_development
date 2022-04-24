@@ -1,0 +1,42 @@
+html {
+    background-color: #F0E68C;
+}
+
+
+.leftcol {
+    width: 500px;
+    vertical-align: top; 
+   }
+
+html {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+img {
+    width: 110%;
+    height: 130%;
+    
+} 
+em {
+    color: #FF2218;
+}
+a
+{
+    color: #1838FF;
+}
+
+h1
+{
+    color:#3D2B1F;
+}
+
+h2
+{
+    color: #d01134;
+}
+
+h3
+{
+    color: #d01134;
+}
+
